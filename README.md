@@ -1,5 +1,5 @@
 # Swift-Shooter
-This Project Used lot of lines of code, here ase some of them:
+This Project Used lot of lines of code, here are some of them:
 - looking around script for first person camera:
 - ![Screenshot](lookingScript.png)
 - movement for first person (including sprinting, crouching, jumping):
